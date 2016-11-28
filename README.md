@@ -1,7 +1,7 @@
 # ReportUnit
 
-ReportUnit image which can be used to generate an HTML report from an NUnit XML report using [RelevantCode's ReportUnit](http://relevantcodes.com/reportunit/). 
-
+ReportUnit image which can be used to generate an HTML report from an NUnit XML report using [RelevantCode's ReportUnit](http://relevantcodes.com/reportunit/) v1.5.0-beta1. 
+ 
 
 Usage
 -----
